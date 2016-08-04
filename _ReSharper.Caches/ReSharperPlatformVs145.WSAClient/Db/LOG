@@ -1,0 +1,67 @@
+2016/07/01-10:21:16.948 265c Delete type=3 #1
+2016/07/01-10:21:19.683 20cc Level-0 table #5: started
+2016/07/01-10:21:19.730 20cc Level-0 table #5: 4107844 bytes OK
+2016/07/01-10:21:19.734 20cc Delete type=0 #3
+2016/07/01-10:21:20.100 20cc Level-0 table #7: started
+2016/07/01-10:21:20.165 20cc Level-0 table #7: 4219279 bytes OK
+2016/07/01-10:21:20.169 20cc Delete type=0 #4
+2016/07/01-10:21:20.531 20cc Level-0 table #9: started
+2016/07/01-10:21:20.602 20cc Level-0 table #9: 4257571 bytes OK
+2016/07/01-10:21:20.604 20cc Delete type=0 #6
+2016/07/01-10:21:20.952 20cc Level-0 table #11: started
+2016/07/01-10:21:21.017 20cc Level-0 table #11: 3845509 bytes OK
+2016/07/01-10:21:21.021 20cc Delete type=0 #8
+2016/07/01-10:21:21.211 20cc Level-0 table #13: started
+2016/07/01-10:21:21.275 20cc Level-0 table #13: 4405332 bytes OK
+2016/07/01-10:21:21.278 20cc Delete type=0 #10
+2016/07/01-10:21:21.674 20cc Level-0 table #15: started
+2016/07/01-10:21:21.715 20cc Level-0 table #15: 3854379 bytes OK
+2016/07/01-10:21:21.717 20cc Delete type=0 #12
+2016/07/01-10:21:21.718 20cc Compacting 4@0 + 1@1 files
+2016/07/01-10:21:21.751 20cc Generated table #16: 5669 keys, 2154267 bytes
+2016/07/01-10:21:21.787 20cc Generated table #17: 4783 keys, 2160562 bytes
+2016/07/01-10:21:21.830 20cc Generated table #18: 4262 keys, 2167040 bytes
+2016/07/01-10:21:21.867 20cc Generated table #19: 3017 keys, 2169015 bytes
+2016/07/01-10:21:21.906 20cc Generated table #20: 3224 keys, 2169507 bytes
+2016/07/01-10:21:21.946 20cc Generated table #21: 3108 keys, 2169953 bytes
+2016/07/01-10:21:21.970 20cc Level-0 table #24: started
+2016/07/01-10:21:22.029 20cc Level-0 table #24: 4009596 bytes OK
+2016/07/01-10:21:22.030 20cc Delete type=0 #14
+2016/07/01-10:21:22.067 20cc Generated table #23: 2817 keys, 2171445 bytes
+2016/07/01-10:21:22.100 20cc Generated table #25: 2986 keys, 2167505 bytes
+2016/07/01-10:21:22.132 20cc Generated table #26: 2906 keys, 2173805 bytes
+2016/07/01-10:21:22.149 20cc Generated table #27: 1228 keys, 1046308 bytes
+2016/07/01-10:21:22.149 20cc Compacted 4@0 + 1@1 files => 20549407 bytes
+2016/07/01-10:21:22.153 20cc Delete type=2 #7
+2016/07/01-10:21:22.154 20cc Delete type=2 #9
+2016/07/01-10:21:22.155 20cc Delete type=2 #11
+2016/07/01-10:21:22.155 20cc Delete type=2 #13
+2016/07/01-10:21:22.157 20cc Delete type=2 #15
+2016/07/01-10:21:22.157 20cc compacted to: files[ 1 10 1 0 0 0 0 ]
+2016/07/01-10:21:22.157 20cc Expanding@1 1+1 to 10+1
+2016/07/01-10:21:22.158 20cc Compacting 10@1 + 1@2 files
+2016/07/01-10:21:22.196 20cc Generated table #28: 5413 keys, 2167605 bytes
+2016/07/01-10:21:22.230 20cc Generated table #29: 5029 keys, 2158495 bytes
+2016/07/01-10:21:22.267 20cc Generated table #30: 4533 keys, 2167005 bytes
+2016/07/01-10:21:22.303 20cc Generated table #31: 4445 keys, 2167252 bytes
+2016/07/01-10:21:22.336 20cc Generated table #32: 2712 keys, 2181366 bytes
+2016/07/01-10:21:22.370 20cc Generated table #33: 3122 keys, 2167946 bytes
+2016/07/01-10:21:22.403 20cc Generated table #34: 3174 keys, 2167448 bytes
+2016/07/01-10:21:22.439 20cc Generated table #35: 2999 keys, 2174284 bytes
+2016/07/01-10:21:22.469 20cc Generated table #36: 2814 keys, 2175781 bytes
+2016/07/01-10:21:22.502 20cc Generated table #37: 3160 keys, 2159564 bytes
+2016/07/01-10:21:22.536 20cc Generated table #38: 2829 keys, 2173970 bytes
+2016/07/01-10:21:22.548 20cc Generated table #39: 843 keys, 770895 bytes
+2016/07/01-10:21:22.548 20cc Compacted 10@1 + 1@2 files => 24631611 bytes
+2016/07/01-10:21:22.550 20cc Delete type=2 #5
+2016/07/01-10:21:22.551 20cc Delete type=2 #16
+2016/07/01-10:21:22.552 20cc Delete type=2 #17
+2016/07/01-10:21:22.553 20cc Delete type=2 #18
+2016/07/01-10:21:22.553 20cc Delete type=2 #19
+2016/07/01-10:21:22.554 20cc Delete type=2 #20
+2016/07/01-10:21:22.555 20cc Delete type=2 #21
+2016/07/01-10:21:22.555 20cc Delete type=2 #23
+2016/07/01-10:21:22.556 20cc Delete type=2 #25
+2016/07/01-10:21:22.557 20cc Delete type=2 #26
+2016/07/01-10:21:22.558 20cc Delete type=2 #27
+2016/07/01-10:21:22.558 20cc compacted to: files[ 1 0 12 0 0 0 0 ]
